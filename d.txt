@@ -1,4 +1,0 @@
-npm i -D @babel/cli @babel/core @babel/plugin-proposal-class-properties @babel/preset-env @babel/preset-react babel-cli babel-loader css-loader style-loader webpack webpack-cli webpack-dev-server
-
-
-babel-plugin-transform-class-properties html-webpack-plugin
